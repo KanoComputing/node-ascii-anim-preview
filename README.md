@@ -12,7 +12,7 @@ The tool will read all files from a given directory and loop through them in ord
 
 So make sure to use in with a directory only containing your ASCII text frames.
 
-**Basic usage**: `ascii-anim-preview directory`
+Basic usage: `ascii-anim-preview directory`
 
 Display help with `ascii-anim-preview -h`
 
