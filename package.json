@@ -1,10 +1,10 @@
 {
   "name": "ascii-anim-preview",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tiny command-line utility to preview ASCII art animations",
   "author": "Tancredi Trugenberger",
   "bin": {
-    "ascii-anim-preview": "./bin/index"
+    "ascii-anim-preview": "./bin/ascii-anim-preview.js"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
