@@ -27,4 +27,4 @@ Not enough non-option arguments: got 0, need at least 1
 
 ## Licence
 
-Copyright (c) 2014 Kano Computing Ltd. - Released under the MIT license
+Copyright (c) 2014 Kano Computing Ltd. - Released under the [MIT license](https://github.com/KanoComputing/node-ascii-anim-preview/blob/master/LICENSE)
