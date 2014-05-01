@@ -1,0 +1,14 @@
+{
+  "name": "ascii-anim-preview",
+  "version": "0.0.0",
+  "description": "Tiny command-line utility to preview ASCII art animations",
+  "author": "Tancredi Trugenberger",
+  "bin": {
+    "ascii-anim-preview": "./bin/index"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "optimist": "~0.6.x",
+    "blessed": "0.0.x"
+  }
+}
